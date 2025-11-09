@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "416829496123",
+    "project_id": "school-connect-app-e4c40",
+    "storage_bucket": "school-connect-app-e4c40.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416829496123:android:f85799d600c27c0f27751e",
+        "android_client_info": {
+          "package_name": "com.example.uba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnlLK9Ibxk_rQ9C6oahfg13BuKvLgBgtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416829496123:android:dcb803135b2f344c27751e",
+        "android_client_info": {
+          "package_name": "com.example.uba_fixed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnlLK9Ibxk_rQ9C6oahfg13BuKvLgBgtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
